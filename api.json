@@ -1,0 +1,1402 @@
+{
+  "3D:RF:09:7F:00:01": {
+    "Name": "R1",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.68",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:02": {
+    "Name": "R2",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.69",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:03": {
+    "Name": "R3",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.70",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:04": {
+    "Name": "R4",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.71",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:05": {
+    "Name": "R5",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.72",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:06": {
+    "Name": "R6",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.73",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:07": {
+    "Name": "R7",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.74",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:08": {
+    "Name": "R8",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.75",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:09": {
+    "Name": "R9",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.76",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:0A": {
+    "Name": "R10",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.77",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:0B": {
+    "Name": "R11",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.78",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:0C": {
+    "Name": "R12",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.79",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:0D": {
+    "Name": "R13",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.80",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:0E": {
+    "Name": "R14",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.81",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:0F": {
+    "Name": "R15",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.82",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:10": {
+    "Name": "R16",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.83",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:11": {
+    "Name": "R17",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.84",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:12": {
+    "Name": "R18",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.85",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:13": {
+    "Name": "R19",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.86",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:14": {
+    "Name": "R20",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.87",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:15": {
+    "Name": "R21",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.88",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:16": {
+    "Name": "R22",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.89",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:17": {
+    "Name": "R23",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.90",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:18": {
+    "Name": "R24",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.91",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:19": {
+    "Name": "R25",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.92",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:1A": {
+    "Name": "R26",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.93",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:1B": {
+    "Name": "R27",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.94",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:1C": {
+    "Name": "R28",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.95",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:1D": {
+    "Name": "R29",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.96",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:1E": {
+    "Name": "R30",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.97",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:1F": {
+    "Name": "R31",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.98",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:20": {
+    "Name": "R32",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.99",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:21": {
+    "Name": "R33",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.100",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:22": {
+    "Name": "R34",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.101",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:23": {
+    "Name": "R35",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.102",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:24": {
+    "Name": "R36",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.103",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:25": {
+    "Name": "R37",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.104",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:26": {
+    "Name": "R38",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.105",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:27": {
+    "Name": "R39",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.106",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:28": {
+    "Name": "R40",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.107",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:29": {
+    "Name": "R41",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.108",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:2A": {
+    "Name": "R42",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.109",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:2B": {
+    "Name": "R43",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.110",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:2C": {
+    "Name": "R44",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.111",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:2D": {
+    "Name": "R45",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.112",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:2E": {
+    "Name": "R46",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.113",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:2F": {
+    "Name": "R47",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.114",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:30": {
+    "Name": "R48",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.115",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:31": {
+    "Name": "R49",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.116",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:32": {
+    "Name": "R50",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.117",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:33": {
+    "Name": "R51",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.118",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:34": {
+    "Name": "R52",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.119",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:35": {
+    "Name": "R53",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.120",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:36": {
+    "Name": "R54",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.121",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:37": {
+    "Name": "R55",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.122",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:38": {
+    "Name": "R56",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.123",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:39": {
+    "Name": "R57",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.124",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:3A": {
+    "Name": "R58",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.125",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:3B": {
+    "Name": "R59",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.126",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:3C": {
+    "Name": "R60",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.127",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:3D": {
+    "Name": "R61",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.128",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:3E": {
+    "Name": "R62",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.129",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:3F": {
+    "Name": "R63",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.130",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:40": {
+    "Name": "R64",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.131",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:41": {
+    "Name": "R65",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.132",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:42": {
+    "Name": "R66",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.133",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:43": {
+    "Name": "R67",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.134",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:44": {
+    "Name": "R68",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.135",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:45": {
+    "Name": "R69",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.136",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:46": {
+    "Name": "R70",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.137",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:47": {
+    "Name": "R71",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.138",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:48": {
+    "Name": "R72",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.139",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:49": {
+    "Name": "R73",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.140",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:4A": {
+    "Name": "R74",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.141",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:4B": {
+    "Name": "R75",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.142",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:4C": {
+    "Name": "R76",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.143",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:4D": {
+    "Name": "R77",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.144",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:4E": {
+    "Name": "R78",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.145",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:4F": {
+    "Name": "R79",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.146",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:50": {
+    "Name": "R80",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.147",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:51": {
+    "Name": "R81",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.148",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:52": {
+    "Name": "R82",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.149",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:53": {
+    "Name": "R83",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.150",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:54": {
+    "Name": "R84",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.151",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:55": {
+    "Name": "R85",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.152",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:56": {
+    "Name": "R86",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.153",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:57": {
+    "Name": "R87",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.154",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:58": {
+    "Name": "R88",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.155",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:59": {
+    "Name": "R89",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.156",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:5A": {
+    "Name": "R90",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.157",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:5B": {
+    "Name": "R91",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.158",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:5C": {
+    "Name": "R92",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.159",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:5D": {
+    "Name": "R93",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.160",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:5E": {
+    "Name": "R94",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.161",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:5F": {
+    "Name": "R95",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.162",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:60": {
+    "Name": "R96",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.163",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:61": {
+    "Name": "R97",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.164",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:62": {
+    "Name": "R98",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.165",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:63": {
+    "Name": "R99",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Online",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.166",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F:00:64": {
+    "Name": "R100",
+    "Protocolos": ["OSPF", "ST"],
+    "status": "Offline",
+    "VLANs": {
+      "VL1": {
+        "puertos": [],
+        "Policies": [],
+        "ET": true,
+        "IP": "192.168.10.167",
+        "SSH": true
+      }
+    }
+  }
+}
